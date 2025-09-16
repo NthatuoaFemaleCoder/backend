@@ -6,6 +6,7 @@
     "customerId": "1757591048427",
     "customerName": "Thabang Lebelo",
     "quantity": 1,
+    "amount": 20,
     "date": "9/11/2025, 1:52:09 PM"
   },
   {
@@ -15,6 +16,7 @@
     "customerId": "1757591048427",
     "customerName": "Thabang Lebelo",
     "quantity": 1,
+    "amount": 5,
     "date": "9/11/2025, 2:47:27 PM"
   },
   {
@@ -24,6 +26,7 @@
     "customerId": "1757591048427",
     "customerName": "Thabang Lebelo",
     "quantity": 1,
+    "amount": 20,
     "date": "9/11/2025, 2:54:52 PM"
   },
   {
@@ -33,6 +36,7 @@
     "customerId": "1757591048427",
     "customerName": "Thabang Lebelo",
     "quantity": 1,
+    "amount": 5,
     "date": "9/11/2025, 2:58:06 PM"
   },
   {
@@ -42,6 +46,7 @@
     "customerId": "1757594945404",
     "customerName": "faso",
     "quantity": 3,
+    "amount": 60,
     "date": "9/11/2025, 3:05:33 PM"
   },
   {
@@ -51,6 +56,7 @@
     "customerId": "1757591048427",
     "customerName": "Thabang Lebelo",
     "quantity": 1,
+    "amount": 20,
     "date": "9/11/2025, 3:13:22 PM"
   }
 ]
