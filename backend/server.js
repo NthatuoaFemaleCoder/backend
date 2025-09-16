@@ -118,7 +118,6 @@ app.post('/api/customers', async (req, res) => {
   }
 });
 
-
 /* ===========================
    SALES API
 =========================== */
@@ -169,6 +168,7 @@ app.post('/api/sales', async (req, res) => {
       customerId,
       customerName: customer.name,
       quantity,
+      amount: product.price * quantity, // Calculate and save amount
       date: new Date().toLocaleString()
     };
 
@@ -182,8 +182,6 @@ app.post('/api/sales', async (req, res) => {
     res.status(500).json({ message: "Error saving sale" });
   }
 });
-
-
 
 // Start server
 app.listen(PORT, () => {
