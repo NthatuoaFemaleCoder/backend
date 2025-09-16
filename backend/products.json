@@ -1,26 +1,50 @@
 [
   {
-    "_id": "1757590740837",
-    "name": "rice",
-    "description": "5KG",
+    "_id": "1757610000001",
+    "name": "Morogo",
+    "description": "1kg",
     "category": "food",
-    "price": "55",
-    "quantity": 994
+    "price": "25",
+    "quantity": 150
   },
   {
-    "_id": "1757590813601",
-    "name": "salt",
+    "_id": "1757610000002",
+    "name": "Motoho",
     "description": "500g",
     "category": "food",
-    "price": "8",
-    "quantity": 86
+    "price": "15",
+    "quantity": 200
   },
   {
-    "_id": "1757605152644",
-    "name": "salty",
-    "description": "500g",
+    "_id": "1757610000003",
+    "name": "Sepepe",
+    "description": "250g",
     "category": "food",
-    "price": "8",
-    "quantity": "88"
+    "price": "10",
+    "quantity": 120
+  },
+  {
+    "_id": "1757610000004",
+    "name": "Letsoku",
+    "description": "500g",
+    "category": "household",
+    "price": "12",
+    "quantity": 80
+  },
+  {
+    "_id": "1757610000005",
+    "name": "Khau Soap",
+    "description": "100g",
+    "category": "household",
+    "price": "5",
+    "quantity": 250
+  },
+  {
+    "_id": "1757610000006",
+    "name": "Basotho Basket",
+    "description": "Medium",
+    "category": "crafts",
+    "price": "80",
+    "quantity": 30
   }
 ]
